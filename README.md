@@ -58,3 +58,8 @@ An end-to-end executive performance management dashboard designed in Microsoft E
 | **Cash on Delivery (COD)** | Offer a 1–2% instant checkout incentive for UPI/Amazon Pay Later. | Lowers courier RTO (Return to Origin) fees and cash handling friction. |
 | **Logistics & Inventory** | Pre-position 50%+ of fast-moving FBA inventory within Western (Mumbai) and Southern (Bengaluru) fulfillment hubs. | Guarantees 24–48 hour delivery in core revenue corridors. |
 | **Margin Expansion** | Scale vendor onboarding for the **Seller Flex** model. | Capitalizes on its superior 21.84% margin profile without compromising Prime delivery. |
+
+## Dashboard
+
+<img width="447" height="516" alt="image" src="https://github.com/user-attachments/assets/21d3d22f-eeb5-47ef-9b90-f98e0802fa61" />
+
